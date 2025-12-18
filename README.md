@@ -2,8 +2,8 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE.txt)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)]()
-[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.5.1-purple.svg)]()
 [![Language](https://img.shields.io/badge/Language-C%23-green.svg)]()
+[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.5.1-purple.svg)]()
 
 ![Dictionary_2015](https://github.com/amirargani/Dictionary_2015/blob/main/Dictionary_2015.png)
 

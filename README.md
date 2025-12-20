@@ -20,8 +20,6 @@ A Windows Forms application demonstrating smooth UI animations and continuous MP
 - [Usage](#-usage)
 - [Technical Details](#-technical-details)
 - [Project Structure](#-project-structure)
-- [License](#-license)
-- [Contributing](#-contributing)
 
 ---
 
@@ -225,44 +223,6 @@ Dictionary_2015/
 ├── .gitignore                    # Git ignore rules
 └── .gitattributes                # Git attributes
 ```
-
----
-
-### Apache 2.0 License Summary
-
-- ✅ **Commercial use** - Use for commercial purposes
-- ✅ **Modification** - Modify the source code
-- ✅ **Distribution** - Distribute the software
-- ✅ **Patent use** - Grant of patent rights
-- ✅ **Private use** - Use privately
-- ⚠️ **Trademark use** - Does not grant trademark rights
-- ⚠️ **Liability** - Includes limitation of liability
-- ⚠️ **Warranty** - Provided "as is" without warranty
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-### Reporting Issues
-1. Check if the issue already exists
-2. Create a new issue with detailed description
-3. Include steps to reproduce
-4. Add screenshots if applicable
-
-### Submitting Pull Requests
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Development Guidelines
-- Follow C# coding conventions
-- Comment complex logic
-- Test on Windows 7, 8, 10, and 11
-- Ensure .NET Framework 4.5.1 compatibility
 
 ---
 
